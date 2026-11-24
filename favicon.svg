@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32">
-  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-size="80">💪</text>
-</svg> 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3 4 56 56" role="img" aria-label="ZD bicycle monogram">
+  <style>@media (prefers-color-scheme: dark) { .rim { stroke: #9aadb9 } }</style>
+  <g fill="none" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="15" cy="41" r="9" stroke="#283b48" stroke-width="5.6"/>
+    <path d="M44 32h3a9 9 0 0 1 0 18h-3z" stroke="#283b48" stroke-width="5.6"/>
+    <circle cx="15" cy="41" r="9" class="rim" stroke="#192f40"/>
+    <path d="M44 32h3a9 9 0 0 1 0 18h-3z" class="rim" stroke="#192f40"/>
+    <path d="m15 41 8-22h-6m4 7h16L25 41h24M37 26l12 15M34 21h8" stroke="#008990"/>
+  </g>
+</svg>
